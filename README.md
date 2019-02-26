@@ -1,1 +1,0 @@
-# Vue-product-details-page
