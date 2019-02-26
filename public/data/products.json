@@ -1,0 +1,100 @@
+[  
+    {  
+       "title":"TWLLS CHECK 1",
+       "slug":"TWLLS PURPLE CHECK1",
+       "img_slug":"./products/product_1.jpg",
+       "price":"1234",
+       "color":"White",
+       "size":"S",
+       "styles":"Solid",
+       "Fit":"slim",
+       "sleeves":"full"
+    },
+    {  
+       "title":"TWLLS CHECK 2",
+       "slug":"TWLLS PURPLE CHECK2",
+       "img_slug":"./products/product_2.jpg",
+       "price":"1200",
+       "color":"Red",
+       "size":"L",
+       "styles":"Solid",
+       "Fit":"slim",
+       "sleeves":"full"
+    },
+    {  
+       "title":"TWLLS CHECK 3",
+       "slug":"TWLLS PURPLE CHECK3",
+       "img_slug":"./products/product_3.jpg",
+       "price":"1434",
+       "color":"Blue",
+       "size":"M",
+       "styles":"Solid",
+       "Fit":"slim",
+       "sleeves":"full"
+    },
+    {  
+       "title":"TWLLS CHECK 4",
+       "slug":"TWLLS PURPLE CHECK3",
+       "img_slug":"./products/product_4.jpg",
+       "price":"1834",
+       "color":"Black",
+       "size":"XL",
+       "styles":"Solid",
+       "Fit":"slim",
+       "sleeves":"full"
+    },{  
+      "title":"TWLLS CHECK 5",
+      "slug":"TWLLS PURPLE CHECK5",
+      "img_slug":"./products/product_1.jpg",
+      "price":"1234",
+      "color":"White",
+      "size":"S",
+      "styles":"Solid",
+      "Fit":"slim",
+      "sleeves":"full"
+   },
+   {  
+      "title":"TWLLS CHECK 6",
+      "slug":"TWLLS CHECK6",
+      "img_slug":"./products/product_2.jpg",
+      "price":"1200",
+      "color":"Red",
+      "size":"L",
+      "styles":"Solid",
+      "Fit":"slim",
+      "sleeves":"full"
+   },
+   {  
+      "title":"TWLLS CHECK 7",
+      "slug":"TWLLS PURPLE CHECK7",
+      "img_slug":"./products/product_3.jpg",
+      "price":"1434",
+      "color":"Blue",
+      "size":"M",
+      "styles":"Solid",
+      "Fit":"slim",
+      "sleeves":"full"
+   },
+   {  
+      "title":"TWLLS CHECK 8",
+      "slug":"TWLLS PURPLE CHECK8",
+      "img_slug":"./products/product_4.jpg",
+      "price":"1834",
+      "color":"Black",
+      "size":"XL",
+      "styles":"Solid",
+      "Fit":"slim",
+      "sleeves":"full"
+   },
+   {  
+      "title":"TWLLS CHECK 9",
+      "slug":"TWLLS PURPLE CHECK9",
+      "img_slug":"./products/product_4.jpg",
+      "price":"1834",
+      "color":"White",
+      "size":"XL",
+      "styles":"Solid",
+      "Fit":"slim",
+      "sleeves":"full"
+   }
+ ]
